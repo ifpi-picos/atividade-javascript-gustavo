@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+
+button {
+  padding: 8px;
+  width: 400px;
+}
+
+div {
+  padding: 8px;
+  width: 400px;
+  border: 1px solid orange;
+}
+
+.oculta {
+  display: none;
+}
