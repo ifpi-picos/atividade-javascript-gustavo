@@ -1,1 +1,1 @@
-Trio:  Gustavo Benício, Matheus Lélis e Leandro
+Trio:  Gustavo Benício, Matheus Lelis e Leandro
